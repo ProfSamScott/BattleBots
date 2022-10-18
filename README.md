@@ -8,4 +8,4 @@ game.
 
 Presented at the CEMC conference at Waterloo in 2011 and at the ACSE conference at York University in 2015.
 
-See the doc folder for more information
+<b>See the doc folder for more information</b>
