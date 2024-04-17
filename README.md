@@ -9,3 +9,4 @@ game.
 Presented at the CEMC conference at Waterloo in 2011 and at the ACSE conference at York University in 2015.
 
 Documentation: https://profsamscott.github.io/BattleBots/
+Classroom Materials: Courtesy of Tony Theodoropoulos
