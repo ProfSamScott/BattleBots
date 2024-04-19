@@ -11,5 +11,8 @@ Presented at the CEMC conference at Waterloo in 2011 and at the ACSE conference 
 ## Documentation
 https://profsamscott.github.io/BattleBots/
 
+## Ongoing Development
+Nathan Rowbottom has been continuing to develop this project for quite a while. Find his latest at https://github.com/rowbottomn/BattleBots3_0Teams
+
 ## Classroom Materials
 Courtesy of Tony Theodoropoulos
