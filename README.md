@@ -16,3 +16,6 @@ Nathan Rowbottom has been continuing to develop this project for quite a while. 
 
 ## Classroom Materials
 Courtesy of Tony Theodoropoulos
+
+## Presentations
+This work was presented at CEMC 2011 (University of Waterloo) and ACSE 2015 in Toronto
